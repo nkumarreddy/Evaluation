@@ -11,7 +11,9 @@ int main() {
             break;
 case 2:
             printf("AIML.\n");
-            break;
+            printf("made changees");
+	    break;
+
 case 3:
             printf("mechanical.\n");
             break;
