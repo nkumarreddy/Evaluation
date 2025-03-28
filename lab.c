@@ -14,7 +14,8 @@ case 2:
             break;
 case 3:
             printf("mechanical.\n");
-            break;
+            printf("updated");
+	    break;
 case 4:	    printf("software.\n");
 	    break;
 
