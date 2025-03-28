@@ -8,6 +8,7 @@ int main() {
 	 switch (choice) {
         case 1:
             printf("B.tech CSE\n");
+	    printf("made changes");
             break;
 case 2:
             printf("AIML.\n");
