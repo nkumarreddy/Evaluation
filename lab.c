@@ -17,6 +17,8 @@ case 3:
             printf("updated");
 	    break;
 case 4:	    printf("software.\n");
+	    printf("updated");
+
 	    break;
 
 default:
